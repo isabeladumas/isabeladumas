@@ -1,5 +1,5 @@
 ## ☆ Hi, I'm Isabela Dumas! ☆
-[![Isabela Dumas's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeladumas)](https://github.com/isabeladumas)
+[![Isabela Dumas's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeladumas&show_icons=true&theme=radical)](https://github.com/isabeladumas)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

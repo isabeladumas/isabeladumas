@@ -24,12 +24,6 @@
 
 ---
 
-### 📈 My GitHub Activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladumas&layout=compact&theme=radical)](https://github.com/isabeladumas)
-
----
-
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-dumas-72a157244/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isabeladumas12@gmail.com)
 

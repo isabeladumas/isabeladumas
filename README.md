@@ -9,6 +9,7 @@
 - ✨ Interests: AI, automation, logistics, web development
 - 💡 Always curious, always experimenting
 
+[![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeladumas)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ Languages & Tools

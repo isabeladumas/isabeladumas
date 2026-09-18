@@ -10,7 +10,7 @@
 - 💡 Always curious, always experimenting
 
 ---
-![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeladumas&theme=dark&show_icons=true)
+
 ### 🛠️ Languages & Tools
 
 <p align="left">

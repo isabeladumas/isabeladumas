@@ -9,8 +9,6 @@
 - ✨ Interests: AI, automation, logistics, web development
 - 💡 Always curious, always experimenting
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isabeladumas&layout=compact&langs_count=15&theme=dracula&line_height=40&hide=css"/> </a>
-
 ---
 
 ### 🛠️ Languages & Tools
